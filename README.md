@@ -1,2 +1,2 @@
 # desarrollo-web
-Página desarrollada en el curso de Desarrollo Web en Platzi
+Página desarrollada en el curso de Desarrollo Web en Platzi @managall
